@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vpn-v2ray-sock5.github.io/sitemap.xml
